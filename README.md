@@ -19,7 +19,6 @@ Thank you
 
 
 ### list of the wiki to be validated
-* https://github.com/codjo/codjo-confluence/wiki
 * https://github.com/codjo/codjo-datagen/wiki
 * https://github.com/codjo/codjo-tokio/wiki --> rework a prévoir a cause des accents et toagle...etc
 * https://github.com/codjo/codjo-test/wiki
@@ -81,3 +80,7 @@ Unexisting wikis:
 * codjo-sample	
 * damas
 *
+
+
+### list of the wiki that have been validated
+* https://github.com/codjo/codjo-confluence/wiki
