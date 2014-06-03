@@ -10,10 +10,10 @@ Feel free to add issues : https://github.com/codjo/codjo-documentation-migration
 
 ### Some simple rules:
 * check if the library has already been verified in the isues
-* PLEASE add a Tag with the library name on every issue
-* Even if everything is ok please add an issue just to say that you have reviewed the library (cf codjo-confluence in issue lis)
+* BEFORE WORKING add an issue to notify people that you are working on the library : "Reviewing codjo-XXXX documentation"
+* add a Tag with the library name on every issue
 * If you are very powerfull, fix them ;-)
-
+* NB : you are not forced to fork documentation, you can edit directly in the browser.
 
 Thank you
 
