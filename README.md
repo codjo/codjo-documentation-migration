@@ -39,7 +39,6 @@ Thank you
 * https://github.com/codjo/codjo-control/wiki
 * https://github.com/codjo/codjo-notification/wiki
 * https://github.com/codjo/codjo-referential/wiki
-* https://github.com/codjo/codjo-i18n/wiki
 * https://github.com/codjo/codjo-fake-db/wiki
 * https://github.com/codjo/codjo-webservices/wiki
 * https://github.com/codjo/codjo-taskpool/wiki
@@ -48,20 +47,14 @@ Thank you
 * https://github.com/codjo/codjo-shipment/wiki
 * https://github.com/codjo/codjo-reflect/wiki
 * https://github.com/codjo/codjo-ontology/wiki	--> lien ontology sur Homepage
-* https://github.com/codjo/codjo-expression/wiki
-* https://github.com/codjo/odjo-logging/wiki
-* https://github.com/codjo/codjo-crypto/wiki
 * https://github.com/codjo/codjo-aspect/wiki
 * https://github.com/codjo/codjo-xml/wiki
 * https://github.com/codjo/codjo-jconnect/wiki	 --> attachement pdf ?
 * https://github.com/codjo/codjo-product-ontology/wiki
 * https://github.com/codjo/codjo-historic-audit/wiki
-* https://github.com/codjo/codjo-globs/wiki
-* https://github.com/codjo/codjo-pom/wiki
 * https://github.com/codjo/codjo-tools-tokio-viewer/wiki --> Attachements non visibles
 * https://github.com/codjo/codjo-tools-event-recorder/wiki --> pas de wiki sur confluence   
 * https://github.com/codjo/codjo-tools-test-runner/wiki
-* https://github.com/codjo/maven-codjo-plugin/wiki   
 * https://github.com/codjo/codjo-tools-pyp/wiki --> coquille dns balise code
 * https://github.com/codjo/codjo-tools-sqltester/wiki --> coquille affichage   
 * https://github.com/codjo/codjo-tools-farow/wiki --> il manque les issues + lien application
@@ -84,3 +77,10 @@ Unexisting wikis:
 * https://github.com/codjo/codjo-datagen/wiki
 * https://github.com/codjo/codjo-administration/wiki
 * https://github.com/codjo/codjo-plugin/wiki
+* https://github.com/codjo/codjo-logging/wiki
+* https://github.com/codjo/codjo-crypto/wiki
+* https://github.com/codjo/codjo-i18n/wiki
+* https://github.com/codjo/codjo-expression/wiki
+* https://github.com/codjo/codjo-pom/wiki
+* https://github.com/codjo/maven-codjo-plugin/wiki
+* https://github.com/codjo/codjo-globs/wiki
