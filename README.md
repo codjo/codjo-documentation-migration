@@ -38,21 +38,15 @@ Thank you
 * https://github.com/codjo/codjo-control/wiki
 * https://github.com/codjo/codjo-notification/wiki
 * https://github.com/codjo/codjo-referential/wiki
-* https://github.com/codjo/codjo-fake-db/wiki
 * https://github.com/codjo/codjo-webservices/wiki
 * https://github.com/codjo/codjo-taskpool/wiki
-* https://github.com/codjo/codjo-standalone-common/wiki
 * https://github.com/codjo/codjo-standalone-client/wiki
-* https://github.com/codjo/codjo-shipment/wiki
 * https://github.com/codjo/codjo-reflect/wiki
 * https://github.com/codjo/codjo-ontology/wiki	--> lien ontology sur Homepage
 * https://github.com/codjo/codjo-aspect/wiki
 * https://github.com/codjo/codjo-jconnect/wiki	 --> attachement pdf ?
-* https://github.com/codjo/codjo-product-ontology/wiki
-* https://github.com/codjo/codjo-historic-audit/wiki
 * https://github.com/codjo/codjo-tools-tokio-viewer/wiki --> Attachements non visibles
 * https://github.com/codjo/codjo-tools-event-recorder/wiki --> pas de wiki sur confluence   
-* https://github.com/codjo/codjo-tools-test-runner/wiki
 * https://github.com/codjo/codjo-tools-pyp/wiki --> coquille dns balise code
 * https://github.com/codjo/codjo-tools-sqltester/wiki --> coquille affichage   
 * https://github.com/codjo/codjo-tools-farow/wiki --> il manque les issues + lien application
@@ -84,3 +78,9 @@ Unexisting wikis:
 * https://github.com/codjo/codjo-globs/wiki
 * https://github.com/codjo/codjo-variable/wiki
 * https://github.com/codjo/codjo-xml/wiki
+* https://github.com/codjo/codjo-fake-db/wiki
+* https://github.com/codjo/codjo-historic-audit/wiki
+* https://github.com/codjo/codjo-product-ontology/wiki
+* https://github.com/codjo/codjo-tools-test-runner/wiki
+* https://github.com/codjo/codjo-shipment/wiki
+* https://github.com/codjo/codjo-standalone-common/wiki
