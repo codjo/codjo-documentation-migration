@@ -33,7 +33,6 @@ Thank you
 * https://github.com/codjo/codjo-sql/wiki
 * https://github.com/codjo/codjo-agent/wiki --> lien sur swdew adns page de garde
 * https://github.com/codjo/codjo-gui-toolkit/wiki --> pb memoire Heap size arret a l'issue framework 1.20 
-* https://github.com/codjo/codjo-imports/wiki
 * https://github.com/codjo/codjo-security/wiki
 * https://github.com/codjo/codjo-control/wiki
 * https://github.com/codjo/codjo-notification/wiki
@@ -50,10 +49,8 @@ Thank you
 * https://github.com/codjo/codjo-tools-pyp/wiki --> coquille dns balise code
 * https://github.com/codjo/codjo-tools-sqltester/wiki --> coquille affichage   
 * https://github.com/codjo/codjo-tools-farow/wiki --> il manque les issues + lien application
-* https://github.com/codjo/maven-datagen-plugin/wiki
 * https://github.com/codjo/maven-test-release-plugin/wiki --> problème de gestion des tableaux/tables html
 * https://github.com/codjo/maven-database-plugin/wiki --> pb affichage table
-* https://github.com/codjo/maven-delivery-plugin/wiki
 
 Unexisting wikis:	
 * maven-config-plugin
@@ -84,3 +81,6 @@ Unexisting wikis:
 * https://github.com/codjo/codjo-tools-test-runner/wiki
 * https://github.com/codjo/codjo-shipment/wiki
 * https://github.com/codjo/codjo-standalone-common/wiki
+* https://github.com/codjo/maven-delivery-plugin/wiki
+* https://github.com/codjo/maven-datagen-plugin/wiki
+* https://github.com/codjo/codjo-imports/wiki
