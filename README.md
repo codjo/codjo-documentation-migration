@@ -32,7 +32,6 @@ Thank you
 * https://github.com/codjo/codjo-database/wiki
 * https://github.com/codjo/codjo-sql/wiki
 * https://github.com/codjo/codjo-agent/wiki --> lien sur swdew adns page de garde
-* https://github.com/codjo/codjo-variable/wiki
 * https://github.com/codjo/codjo-gui-toolkit/wiki --> pb memoire Heap size arret a l'issue framework 1.20 
 * https://github.com/codjo/codjo-imports/wiki
 * https://github.com/codjo/codjo-security/wiki
@@ -48,7 +47,6 @@ Thank you
 * https://github.com/codjo/codjo-reflect/wiki
 * https://github.com/codjo/codjo-ontology/wiki	--> lien ontology sur Homepage
 * https://github.com/codjo/codjo-aspect/wiki
-* https://github.com/codjo/codjo-xml/wiki
 * https://github.com/codjo/codjo-jconnect/wiki	 --> attachement pdf ?
 * https://github.com/codjo/codjo-product-ontology/wiki
 * https://github.com/codjo/codjo-historic-audit/wiki
@@ -84,3 +82,5 @@ Unexisting wikis:
 * https://github.com/codjo/codjo-pom/wiki
 * https://github.com/codjo/maven-codjo-plugin/wiki
 * https://github.com/codjo/codjo-globs/wiki
+* https://github.com/codjo/codjo-variable/wiki
+* https://github.com/codjo/codjo-xml/wiki
