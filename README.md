@@ -19,10 +19,8 @@ Thank you
 
 
 ### list of the wiki to be validated
-* https://github.com/codjo/codjo-datagen/wiki
 * https://github.com/codjo/codjo-tokio/wiki --> rework a prévoir a cause des accents et toagle...etc
 * https://github.com/codjo/codjo-broadcast/wiki --> DONE rework pour les liens avec accents
-* https://github.com/codjo/codjo-administration/wiki
 * https://github.com/codjo/codjo-util/wiki --> un peu de rework avec les anchor
 * https://github.com/codjo/codjo-data-process/wiki --> rien a migrer
 * https://github.com/codjo/codjo-release-test/wiki
@@ -31,7 +29,6 @@ Thank you
 * https://github.com/codjo/codjo-maven-enforcer/wiki
 * https://github.com/codjo/codjo-maven-common/wiki
 * https://github.com/codjo/codjo-workflow/wiki
-* https://github.com/codjo/codjo-plugin/wiki
 * https://github.com/codjo/codjo-database/wiki
 * https://github.com/codjo/codjo-sql/wiki
 * https://github.com/codjo/codjo-agent/wiki --> lien sur swdew adns page de garde
@@ -84,3 +81,6 @@ Unexisting wikis:
 * https://github.com/codjo/codjo-confluence/wiki
 * https://github.com/codjo/codjo-test/wiki
 * https://github.com/codjo/codjo-ads/wiki
+* https://github.com/codjo/codjo-datagen/wiki
+* https://github.com/codjo/codjo-administration/wiki
+* https://github.com/codjo/codjo-plugin/wiki
